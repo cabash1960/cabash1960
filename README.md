@@ -10,7 +10,7 @@ I’m a Software and Design Engineer passionate about building seamless, visuall
 - 🌱 I’m currently learning JavaScript, TypeScript, Vue, Nuxt, React, Next.js, and Python.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Design Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing blessingxin1960@gmail.com
+- 📫 You can [view my resume](https://github.com/cabash1960/Akinlabi-Blessing-cv.git) and contact me by emailing blessingxin1960@gmail.com
 
 ---
 | ------------- | ------------- |
